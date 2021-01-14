@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic-Tac-Toe Game for info2180-lab 4
+The Tic-Tac-Toe game created for info2180-lab4
